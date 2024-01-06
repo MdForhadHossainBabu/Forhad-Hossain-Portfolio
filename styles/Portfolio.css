@@ -202,3 +202,13 @@ main {
     text-align: center;
     margin-top: 70px;
 }
+
+
+/* Footer style  */
+
+footer{
+    display: flex;
+    background: #FFF8F3;
+    margin-top: 100px;
+    padding: 130px 230px;
+}
