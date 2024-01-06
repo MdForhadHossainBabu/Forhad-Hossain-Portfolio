@@ -72,7 +72,7 @@ nav a {
 /* header related styles */
 .header {
     background-color: #fff8f3;
-    background-image: url('../header_bg.png');
+    background-image: url('../header_bg.png') url('de')
     background-repeat: no-repeat;
     background-position: bottom right;
 }
@@ -225,7 +225,7 @@ footer {
 }
 .social-links a{
     margin:25px;
-    
+
 }
 
 .section-description {
