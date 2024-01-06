@@ -72,9 +72,9 @@ nav a {
 /* header related styles */
 .header {
     background-color: #fff8f3;
-    background-image: url('../header_bg.png') url('de')
+    background-image:url('../developer.png');
     background-repeat: no-repeat;
-    background-position: bottom right;
+    background-position: top left;
 }
 
 .banner-greeting {
