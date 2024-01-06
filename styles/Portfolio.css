@@ -22,8 +22,13 @@ body {
     text-align: center;
     font-size: 35px;
     font-weight: 700;
-    font-family: 'Open Sans', sans-serif;
-    font-family: 'Lato', sans-serif;
+    /* font-family: 'Open Sans', sans-serif; */
+    /* font-family: 'Lato', sans-serif; */
+}
+.banner-description{
+    color:#757575;
+    text-align: center;
+    font-size: 18px;
 }
 /* nav related styles */
 nav {
@@ -97,7 +102,7 @@ nav a {
     font-size: 85px;
     font-weight: 700;
     margin-top: 5px;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
 }
 
 .banner-content {
@@ -117,7 +122,8 @@ nav a {
 
 /* About Section styles */
 .about {
-    paddin: 130px;
+    padding: 130px;
     border-radius: 10px;
     background: #FFF8F3;
+    margin:130px 0;
 }
